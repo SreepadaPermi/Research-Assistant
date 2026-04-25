@@ -1,0 +1,6 @@
+{
+  "name": "Research Assistant",
+  "description": "An AI-powered research assistant that finds and summarizes the latest news about any topic using Google Search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
